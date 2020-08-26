@@ -1,5 +1,5 @@
 {
-  "name": "seqThread_parseRSS",
+  "name": "seqThread_parseRSS__request__htmlparser",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
