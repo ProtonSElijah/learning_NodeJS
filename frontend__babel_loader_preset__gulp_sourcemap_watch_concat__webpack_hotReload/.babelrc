@@ -1,0 +1,10 @@
+{
+    "presets": [
+        //For gulp
+        /*"es2015",*/
+
+        //For webpack
+        "@babel/env",
+        "@babel/react"
+    ]
+}
